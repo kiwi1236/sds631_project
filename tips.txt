@@ -1,0 +1,1 @@
+It would be nice to understand the theory of Frank-Wolfe, and use simulation to verify the convergence rates suggested by the theory
